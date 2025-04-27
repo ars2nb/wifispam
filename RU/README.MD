@@ -1,4 +1,4 @@
-# WiFi Spammer Tool (Русская версия)
+# WiFi Spammer Tool || RU
 
 ![Bash](https://img.shields.io/badge/bash-v5.0%2B-blue) 
 ![License](https://img.shields.io/badge/license-MIT-green) 
